@@ -4,9 +4,9 @@ HTML for Docker
 ## To containerize this app, follow these steps
 
 ```Yaml
-docker pull jminn123/html
+docker pull jminn123/html:4
 
-docker container run -d -p 8500:80 jminn123/html
+docker container run -d -p 8500:80 jminn123/html:4
 
 ```
 
