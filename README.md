@@ -1,5 +1,5 @@
 # docker-file
-HTML for Docker
+HTML page for Docker
 
 ## To containerize this app, follow these steps
 
